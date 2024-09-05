@@ -55,7 +55,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhachoi)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer" />
-
 </div>
 
