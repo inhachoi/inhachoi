@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=FE%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B5%9C%EA%B2%BD%EC%9D%BC%20%EC%9E%85%EB%8B%88%EB%8B%A4!&fontSize=40&fontColor=F5F5F5" />
 
 
-<h3 align="center">✨ Mainly Focus ✨</h3>
+<h3 align="center">🎯 Mainly focusing on 🎯</h3>
 <div align="center">
   
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -24,12 +24,4 @@
 
 <br>
 
-<h3 align="center">🛠 ETC 🛠</h3>
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhachoi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhachoi)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
