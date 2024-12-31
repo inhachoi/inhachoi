@@ -1,5 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=FE%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B5%9C%EA%B2%BD%EC%9D%BC%20%EC%9E%85%EB%8B%88%EB%8B%A4!&fontSize=40&fontColor=F5F5F5" />
+<div align="center">
+  <h3>사용자와의 지속적인 소통을 통해 최적의 사용자 경험을 제공하는 FE 개발자입니다.</h3>
+</div>
 
+<br>
 
 <h3 align="center">🎯 Mainly focusing on 🎯</h3>
 <div align="center">
@@ -21,7 +24,3 @@
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/chlruddlf73)
 
 </div>
-
-<br>
-
-
